@@ -24,6 +24,8 @@ import com.inti.util.HibernateUtil;
 public class AffectationRoleServlet extends HttpServlet {
 	private static final long serialVersionUID = 1L;
 
+// ddza	
+	
 	
 	private Logger log = LogManager.getLogger();
 	private Session s;
